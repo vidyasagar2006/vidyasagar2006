@@ -26,7 +26,7 @@ I'm a Microsoft-certified, SC-cleared data engineer with 24+ years of experience
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| CloudFlexAI (Stealth) | LLMs, Terraform, CI/CD, Azure, AWS, GCP | AI-powered data platform in stealth mode under my own startup, Shard Data Solutions Ltd |
+| **CloudFlexAI (Stealth)** | LLMs, Terraform, CI/CD, Azure, AWS, GCP | AI-powered data platform in stealth mode under my own startup, Shard Data Solutions Ltd |
 | Telco Data Ingestion (UKHSA) | AWS, SageMaker, Glue, Terraform | Ingested 3TB mobility data from Virgin Media & BT vendors |
 | EDGE to EDAP Migration | Azure → AWS, Terraform | Migrated 400+ pipelines to cloud-native EDAP environment |
 | COVID Test & Trace (RFL MI) | ADF, Databricks, Power BI | Real-time ingestion & reporting for UKHSA labs |
