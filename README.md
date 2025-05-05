@@ -22,7 +22,7 @@ I'm a Microsoft-certified, SC-cleared data engineer with 24+ years of experience
 
 ---
 
-## 📁 Featured Projects (Coming Soon)
+## 📁 Featured Projects (Completed and Coming Soon)
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
