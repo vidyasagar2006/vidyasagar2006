@@ -18,6 +18,7 @@ I'm a Microsoft-certified, SC-cleared data engineer with 10+ years of experience
 - ✅ Integrating **Databricks + dbt** for modern ELT workflows
 - 🔄 Learning **Generative AI pipelines** using vector stores & RAG in Databricks
 - 🛠 Building an internal **pipeline code generator** using YAML + Python + Terraform
+- 🧪 Building **CloudFlexAI** in stealth mode — a cloud-native, AI-driven data platform under my startup, **Shard Data Solutions Ltd**
 
 ---
 
