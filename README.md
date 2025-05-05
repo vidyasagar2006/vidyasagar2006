@@ -2,7 +2,7 @@
 
 ### 🚀 Cloud-Native Data Engineer | Azure & AWS | IaC | Streaming | Lakehouse | SC Cleared
 
-I'm a Microsoft-certified, SC-cleared data engineer with 10+ years of experience designing secure, scalable data platforms across public sector, finance, and health domains.
+I'm a Microsoft-certified, SC-cleared data engineer with 24+ years of experience designing secure, scalable data platforms across public sector, finance, and health domains.
 
 🔹 Expert in **Azure ADF, Synapse, Databricks, Terraform, Delta Lake**  
 🔹 Skilled in **AWS Glue, Redshift, Athena, SageMaker, S3 pipelines**  
